@@ -7,7 +7,8 @@
 
 ## Mentor/Mentee
 
-- [mentees group](https://mentoringgroup.com/books/mentees-guide.pdf)
+- [mentees guide](https://mentoringgroup.com/books/mentees-guide.pdf)
+- [mentors guide](https://mentoringgroup.com/books/the-mentors-guide.pdf)
 
 ## Presentations (split between poster and talks)
 
